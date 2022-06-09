@@ -1,0 +1,23 @@
+.red {background-color: rgb(211, 35, 35);
+    color: antiquewhite;
+    height: 140px;
+    }
+     .blue{
+        
+        background-color:green;
+        color: aqua;
+    } 
+    div{
+    background-color: blueviolet;
+    }
+            p{
+            color:blue;
+            font-weight:bold;
+            font-size: 5;
+            }
+            h1{
+                color:rgb(214, 37, 137);
+            font-weight:bold;
+            font: size 2px;;
+            }
+            
